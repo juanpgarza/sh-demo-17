@@ -1,0 +1,28 @@
+[submodule "adhoc/account-financial-tools"]
+	path = adhoc/account-financial-tools
+	url = git@github.com:juanpgarza/account-financial-tools.git
+	branch = 17.0
+[submodule "adhoc/account-invoicing"]
+	path = adhoc/account-invoicing
+	url = git@github.com:juanpgarza/account-invoicing-adhoc.git
+	branch = 17.0
+[submodule "adhoc/account-payment"]
+	path = adhoc/account-payment
+	url = git@github.com:juanpgarza/account-payment.git
+	branch = 17.0
+[submodule "adhoc/aeroo_reports"]
+	path = adhoc/aeroo_reports
+	url = git@github.com:juanpgarza/aeroo_reports.git
+	branch = 17.0
+[submodule "adhoc/argentina-sale"]
+	path = adhoc/argentina-sale
+	url = git@github.com:juanpgarza/argentina-sale.git
+	branch = 17.0
+[submodule "adhoc/odoo-argentina-ee"]
+	path = adhoc/odoo-argentina-ee
+	url = git@github.com:juanpgarza/odoo-argentina-ee.git
+	branch = 17.0
+[submodule "adhoc/odoo-argentina"]
+	path = adhoc/odoo-argentina
+	url = git@github.com:juanpgarza/odoo-argentina.git
+	branch = 17.0
