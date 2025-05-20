@@ -38,3 +38,8 @@
 	path = OCA/web
 	url = git@github.com:juanpgarza/web
 	branch = 17.0
+
+[submodule "adhoc/sale"]
+	path = adhoc/sale
+	url = git@github.com:juanpgarza/sale.git
+	branch = 17.0
