@@ -53,3 +53,15 @@
 	path = OCA/sale-workflow
 	url = git@github.com:juanpgarza/sale-workflow.git
 	branch = 17.0
+[submodule "adhoc/miscellaneous"]
+	path = adhoc/miscellaneous
+	url = git@github.com:juanpgarza/miscellaneous.git
+	branch = 17.0
+[submodule "adhoc/product"]
+	path = adhoc/product
+	url = git@github.com:juanpgarza/product.git
+	branch = 17.0
+[submodule "adhoc/purchase"]
+	path = adhoc/purchase
+	url = git@github.com:juanpgarza/purchase.git
+	branch = 17.0
