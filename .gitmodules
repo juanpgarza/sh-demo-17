@@ -48,3 +48,8 @@
 	path = adhoc/stock
 	url = git@github.com:juanpgarza/stock.git
 	branch = 17.0
+
+[submodule "OCA/sale-workflow"]
+	path = OCA/sale-workflow
+	url = git@github.com:juanpgarza/sale-workflow.git
+	branch = 17.0
