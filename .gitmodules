@@ -43,3 +43,8 @@
 	path = adhoc/sale
 	url = git@github.com:juanpgarza/sale.git
 	branch = 17.0
+
+[submodule "adhoc/stock"]
+	path = adhoc/stock
+	url = git@github.com:juanpgarza/stock.git
+	branch = 17.0
