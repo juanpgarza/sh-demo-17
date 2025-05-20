@@ -34,3 +34,7 @@
 	path = OCA/server-ux
 	url = git@github.com:juanpgarza/server-ux.git
 	branch = 17.0
+[submodule "OCA/web"]
+	path = OCA/web
+	url = git@github.com:juanpgarza/web
+	branch = 17.0
