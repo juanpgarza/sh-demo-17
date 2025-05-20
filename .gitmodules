@@ -65,3 +65,19 @@
 	path = adhoc/purchase
 	url = git@github.com:juanpgarza/purchase.git
 	branch = 17.0
+[submodule "OCA/stock-logistics-workflow"]
+	path = OCA/stock-logistics-workflow
+	url = git@github.com:juanpgarza/stock-logistics-workflow.git
+	branch = 17.0
+[submodule "OCA/partner-contact"]
+	path = OCA/partner-contact
+	url = git@github.com:juanpgarza/partner-contact.git
+	branch = 17.0
+[submodule "OCA/sale-reporting"]
+	path = OCA/sale-reporting
+	url = git@github.com:juanpgarza/sale-reporting.git
+	branch = 17.0
+[submodule "OCA/product-attribute"]
+	path = OCA/product-attribute
+	url = git@github.com:juanpgarza/product-attribute.git
+	branch = 17.0
