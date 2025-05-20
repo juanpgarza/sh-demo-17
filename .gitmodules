@@ -26,3 +26,7 @@
 	path = adhoc/odoo-argentina
 	url = git@github.com:juanpgarza/odoo-argentina.git
 	branch = 17.0
+[submodule "sumitec/account-addons"]
+	path = sumitec/account-addons
+	url = git@github.com:sumitec-odoo/account-addons.git
+	branch = 17.0
