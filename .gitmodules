@@ -30,3 +30,7 @@
 	path = sumitec/account-addons
 	url = git@github.com:sumitec-odoo/account-addons.git
 	branch = 17.0
+[submodule "OCA/server-ux"]
+	path = OCA/server-ux
+	url = git@github.com:juanpgarza/server-ux.git
+	branch = 17.0
