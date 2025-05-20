@@ -81,3 +81,7 @@
 	path = OCA/product-attribute
 	url = git@github.com:juanpgarza/product-attribute.git
 	branch = 17.0
+[submodule "OCA/account-reconcile"]
+	path = OCA/account-reconcile
+	url = git@github.com:juanpgarza/account-reconcile.git
+	branch = 17.0
